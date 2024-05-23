@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <Link rel="stylesheet" href="style6.css">
+<script type="text/javascript" src="style6.js" meta charset="UTF-8"></script></head>
+<body>
+    <nav class="navigation">
+        <a href="cw3.html" size='10' >STRONA 1</a>
+        <a href="#">STRONA 2</a>
+        <a href="#">STRONA 3</a>
+		<a href="#">STRONA 4</a>
+		<a href="#">STRONA 5</a>
+		<a href="#">STRONA 6</a>
+		<a href="https://www.youtube.com/watch?v=zve3XfOcP9c">YOUTUBE</a>
+    </nav>
+    <main>
+        <header class="bannner">
+<video class="movie" muted loop autoplay src="obrazy/film.mp4"></video>
+<h1><center>Zadanie "witryna www" Antoni Banach 3D</center></h1>
+        </header>
+    </main>
+</body>
+</html>
